@@ -9,7 +9,7 @@ void puts2(char *str)
 {
 	int longi = 0;
 	int t = 0;
-	
+
 	char (*y != '\0')
 	{
 		y++;
