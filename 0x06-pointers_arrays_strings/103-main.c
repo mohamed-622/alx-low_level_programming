@@ -14,7 +14,6 @@ int main(void)
         char r2[10];
         char r3[11];
         char *res;
-
         res = infinite_add(n, m, r, 100);
         if (res == 0)
         {
@@ -24,6 +23,7 @@ int main(void)
         {
                 printf("%s + %s = %s\n", n, m, res);
         }
+
         n = "1234567890";
         m = "1";
         res = infinite_add(n, m, r2, 10);
