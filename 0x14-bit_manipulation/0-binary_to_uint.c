@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * This function, binary_to_uint, takes a string of binary digits as input and 
+ * binary_to_uint - takes a string of binary digits as input and 
  * returns the equivalent unsigned integer value of the binary number.
  *
  * @b: A string containing the binary number.
